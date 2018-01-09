@@ -1,0 +1,295 @@
+"","place","lat","long","indicator","value"
+"1","Algoma",47.645916,-84.795152,"Population",114094
+"2","Brant",43.152667,-80.171591,"Population",134808
+"3","Bruce",44.131298,-81.150693,"Population",68147
+"4","Chatham-Kent",42.404803,-82.191038,"Population",102042
+"5","Cochrane",49.065026,-81.02993,"Population",79682
+"6","Dufferin",44.052752,-80.187506,"Population",61735
+"7","Durham",43.936838,-78.928824,"Population",645862
+"8","Elgin",42.664587,-80.987107,"Population",88978
+"9","Essex",42.172698,-82.818899,"Population",398953
+"10","Frontenac",44.579703,-76.565358,"Population",150475
+"11","Greater Sudbury",46.522099,-80.953035,"Population",161647
+"12","Grey",44.465996,-80.632692,"Population",93830
+"13","Haldimand-Norfolk",42.927685,-79.876197,"Population",109787
+"14","Haliburton",45.046713,-78.508494,"Population",18062
+"15","Halton",43.532537,-79.874484,"Population",548435
+"16","Hamilton",43.255721,-79.871102,"Population",536917
+"17","Hastings",44.309585,-77.95676,"Population",136445
+"18","Huron",43.641657,-81.691156,"Population",59297
+"19","Kawartha Lakes",44.533747,-78.900648,"Population",75423
+"20","Kenora",49.767042,-94.489392,"Population",65533
+"21","Lambton",43.052709,-82.040714,"Population",126638
+"22","Lanark",45.008378,-76.358924,"Population",68698
+"23","Leeds and Grenville",44.520364,-76.182934,"Population",100546
+"24","Lennox and Addington",44.317606,-76.885249,"Population",42888
+"25","Manitoulin",45.702647,-82.037176,"Population",13255
+"26","Middlesex",42.931042,-81.427898,"Population",455526
+"27","Muskoka",45.184112,-79.408465,"Population",60599
+"28","Niagara",43.123609,-79.19893,"Population",447888
+"29","Nipissing",46.097228,-79.515361,"Population",83150
+"30","Northumberland",43.959337,-78.167736,"Population",85598
+"31","Ottawa",45.42153,-75.697193,"Population",934243
+"32","Oxford",43.131497,-80.747165,"Population",110862
+"33","Parry Sound",45.347392,-80.034783,"Population",42824
+"34","Peel",43.67664,-79.784842,"Population",1381739
+"35","Perth",44.89881,-76.248559,"Population",76796
+"36","Peterborough",44.309058,-78.319747,"Population",138236
+"37","Prescott and Russell",45.619268,-74.692812,"Population",89333
+"38","Prince Edward",44.007313,-77.142369,"Population",24735
+"39","Rainy River",48.609949,-93.395528,"Population",20110
+"40","Renfrew",45.47492,-76.687719,"Population",102394
+"41","Simcoe",42.837263,-80.304042,"Population",479650
+"42","Stormont, Dundas and Glengarry",45.021276,-74.730345,"Population",113429
+"43","Sudbury",46.522099,-80.953035,"Population",21546
+"44","Thunder Bay",48.380895,-89.247682,"Population",146048
+"45","Timiskaming",47.830803,-80.31949,"Population",32251
+"46","Toronto",43.653226,-79.383184,"Population",2731571
+"47","Waterloo",43.464258,-80.52041,"Population",535154
+"48","Wellington",43.951752,-77.349643,"Population",222726
+"49","York",44.059187,-79.461256,"Population",1109909
+"50","Algoma",47.645916,-84.795152,"Bachelors degree or higher (%)",18.52
+"51","Brant",43.152667,-80.171591,"Bachelors degree or higher (%)",16.69
+"52","Bruce",44.131298,-81.150693,"Bachelors degree or higher (%)",16.68
+"53","Chatham-Kent",42.404803,-82.191038,"Bachelors degree or higher (%)",13.06
+"54","Cochrane",49.065026,-81.02993,"Bachelors degree or higher (%)",12.27
+"55","Dufferin",44.052752,-80.187506,"Bachelors degree or higher (%)",18.22
+"56","Durham",43.936838,-78.928824,"Bachelors degree or higher (%)",24.87
+"57","Elgin",42.664587,-80.987107,"Bachelors degree or higher (%)",12.33
+"58","Essex",42.172698,-82.818899,"Bachelors degree or higher (%)",24
+"59","Frontenac",44.579703,-76.565358,"Bachelors degree or higher (%)",30.21
+"60","Greater Sudbury",46.522099,-80.953035,"Bachelors degree or higher (%)",20.51
+"61","Grey",44.465996,-80.632692,"Bachelors degree or higher (%)",16.56
+"62","Haldimand-Norfolk",42.927685,-79.876197,"Bachelors degree or higher (%)",12.03
+"63","Haliburton",45.046713,-78.508494,"Bachelors degree or higher (%)",15.64
+"64","Halton",43.532537,-79.874484,"Bachelors degree or higher (%)",43.11
+"65","Hamilton",43.255721,-79.871102,"Bachelors degree or higher (%)",25.01
+"66","Hastings",44.309585,-77.95676,"Bachelors degree or higher (%)",12.89
+"67","Huron",43.641657,-81.691156,"Bachelors degree or higher (%)",12.64
+"68","Kawartha Lakes",44.533747,-78.900648,"Bachelors degree or higher (%)",11.9
+"69","Kenora",49.767042,-94.489392,"Bachelors degree or higher (%)",12.79
+"70","Lambton",43.052709,-82.040714,"Bachelors degree or higher (%)",16.1
+"71","Lanark",45.008378,-76.358924,"Bachelors degree or higher (%)",17.54
+"72","Leeds and Grenville",44.520364,-76.182934,"Bachelors degree or higher (%)",16.34
+"73","Lennox and Addington",44.317606,-76.885249,"Bachelors degree or higher (%)",14.45
+"74","Manitoulin",45.702647,-82.037176,"Bachelors degree or higher (%)",15.34
+"75","Middlesex",42.931042,-81.427898,"Bachelors degree or higher (%)",28.87
+"76","Muskoka",45.184112,-79.408465,"Bachelors degree or higher (%)",18.85
+"77","Niagara",43.123609,-79.19893,"Bachelors degree or higher (%)",20.74
+"78","Nipissing",46.097228,-79.515361,"Bachelors degree or higher (%)",17.74
+"79","Northumberland",43.959337,-78.167736,"Bachelors degree or higher (%)",16.46
+"80","Ottawa",45.42153,-75.697193,"Bachelors degree or higher (%)",44.97
+"81","Oxford",43.131497,-80.747165,"Bachelors degree or higher (%)",13.54
+"82","Parry Sound",45.347392,-80.034783,"Bachelors degree or higher (%)",14.14
+"83","Peel",43.67664,-79.784842,"Bachelors degree or higher (%)",36.05
+"84","Perth",44.89881,-76.248559,"Bachelors degree or higher (%)",16.01
+"85","Peterborough",44.309058,-78.319747,"Bachelors degree or higher (%)",22.2
+"86","Prescott and Russell",45.619268,-74.692812,"Bachelors degree or higher (%)",16.97
+"87","Prince Edward",44.007313,-77.142369,"Bachelors degree or higher (%)",18.68
+"88","Rainy River",48.609949,-93.395528,"Bachelors degree or higher (%)",13.33
+"89","Renfrew",45.47492,-76.687719,"Bachelors degree or higher (%)",15.8
+"90","Simcoe",42.837263,-80.304042,"Bachelors degree or higher (%)",18.27
+"91","Stormont, Dundas and Glengarry",45.021276,-74.730345,"Bachelors degree or higher (%)",12.72
+"92","Sudbury",46.522099,-80.953035,"Bachelors degree or higher (%)",10.82
+"93","Thunder Bay",48.380895,-89.247682,"Bachelors degree or higher (%)",21.75
+"94","Timiskaming",47.830803,-80.31949,"Bachelors degree or higher (%)",11.51
+"95","Toronto",43.653226,-79.383184,"Bachelors degree or higher (%)",44.14
+"96","Waterloo",43.464258,-80.52041,"Bachelors degree or higher (%)",28.68
+"97","Wellington",43.951752,-77.349643,"Bachelors degree or higher (%)",29.51
+"98","York",44.059187,-79.461256,"Bachelors degree or higher (%)",41.33
+"99","Algoma",47.645916,-84.795152,"Median Income",58664
+"100","Brant",43.152667,-80.171591,"Median Income",68741
+"101","Bruce",44.131298,-81.150693,"Median Income",71193
+"102","Chatham-Kent",42.404803,-82.191038,"Median Income",58185
+"103","Cochrane",49.065026,-81.02993,"Median Income",68349
+"104","Dufferin",44.052752,-80.187506,"Median Income",89608
+"105","Durham",43.936838,-78.928824,"Median Income",89834
+"106","Elgin",42.664587,-80.987107,"Median Income",66494
+"107","Essex",42.172698,-82.818899,"Median Income",66658
+"108","Frontenac",44.579703,-76.565358,"Median Income",69432
+"109","Greater Sudbury",46.522099,-80.953035,"Median Income",71791
+"110","Grey",44.465996,-80.632692,"Median Income",62935
+"111","Haldimand-Norfolk",42.927685,-79.876197,"Median Income",70686
+"112","Haliburton",45.046713,-78.508494,"Median Income",58125
+"113","Halton",43.532537,-79.874484,"Median Income",103009
+"114","Hamilton",43.255721,-79.871102,"Median Income",69024
+"115","Hastings",44.309585,-77.95676,"Median Income",61109
+"116","Huron",43.641657,-81.691156,"Median Income",65944
+"117","Kawartha Lakes",44.533747,-78.900648,"Median Income",67187
+"118","Kenora",49.767042,-94.489392,"Median Income",66198
+"119","Lambton",43.052709,-82.040714,"Median Income",70022
+"120","Lanark",45.008378,-76.358924,"Median Income",71660
+"121","Leeds and Grenville",44.520364,-76.182934,"Median Income",68305
+"122","Lennox and Addington",44.317606,-76.885249,"Median Income",71725
+"123","Manitoulin",45.702647,-82.037176,"Median Income",50227
+"124","Middlesex",42.931042,-81.427898,"Median Income",64797
+"125","Muskoka",45.184112,-79.408465,"Median Income",67880
+"126","Niagara",43.123609,-79.19893,"Median Income",65086
+"127","Nipissing",46.097228,-79.515361,"Median Income",60303
+"128","Northumberland",43.959337,-78.167736,"Median Income",70208
+"129","Ottawa",45.42153,-75.697193,"Median Income",85981
+"130","Oxford",43.131497,-80.747165,"Median Income",72294
+"131","Parry Sound",45.347392,-80.034783,"Median Income",60251
+"132","Peel",43.67664,-79.784842,"Median Income",86233
+"133","Perth",44.89881,-76.248559,"Median Income",70336
+"134","Peterborough",44.309058,-78.319747,"Median Income",64437
+"135","Prescott and Russell",45.619268,-74.692812,"Median Income",78748
+"136","Prince Edward",44.007313,-77.142369,"Median Income",66140
+"137","Rainy River",48.609949,-93.395528,"Median Income",64320
+"138","Renfrew",45.47492,-76.687719,"Median Income",67683
+"139","Simcoe",42.837263,-80.304042,"Median Income",76489
+"140","Stormont, Dundas and Glengarry",45.021276,-74.730345,"Median Income",59526
+"141","Sudbury",46.522099,-80.953035,"Median Income",65333
+"142","Thunder Bay",48.380895,-89.247682,"Median Income",68062
+"143","Timiskaming",47.830803,-80.31949,"Median Income",59360
+"144","Toronto",43.653226,-79.383184,"Median Income",65829
+"145","Waterloo",43.464258,-80.52041,"Median Income",77530
+"146","Wellington",43.951752,-77.349643,"Median Income",81347
+"147","York",44.059187,-79.461256,"Median Income",95776
+"148","Algoma",47.645916,-84.795152,"Aboriginal Identity (%)",13.79
+"149","Brant",43.152667,-80.171591,"Aboriginal Identity (%)",5.23
+"150","Bruce",44.131298,-81.150693,"Aboriginal Identity (%)",4.74
+"151","Chatham-Kent",42.404803,-82.191038,"Aboriginal Identity (%)",4.08
+"152","Cochrane",49.065026,-81.02993,"Aboriginal Identity (%)",16.35
+"153","Dufferin",44.052752,-80.187506,"Aboriginal Identity (%)",1.91
+"154","Durham",43.936838,-78.928824,"Aboriginal Identity (%)",1.96
+"155","Elgin",42.664587,-80.987107,"Aboriginal Identity (%)",2.25
+"156","Essex",42.172698,-82.818899,"Aboriginal Identity (%)",2.52
+"157","Frontenac",44.579703,-76.565358,"Aboriginal Identity (%)",3.7
+"158","Greater Sudbury",46.522099,-80.953035,"Aboriginal Identity (%)",9.48
+"159","Grey",44.465996,-80.632692,"Aboriginal Identity (%)",2.57
+"160","Haldimand-Norfolk",42.927685,-79.876197,"Aboriginal Identity (%)",3.21
+"161","Haliburton",45.046713,-78.508494,"Aboriginal Identity (%)",2.95
+"162","Halton",43.532537,-79.874484,"Aboriginal Identity (%)",1.01
+"163","Hamilton",43.255721,-79.871102,"Aboriginal Identity (%)",2.3
+"164","Hastings",44.309585,-77.95676,"Aboriginal Identity (%)",7.37
+"165","Huron",43.641657,-81.691156,"Aboriginal Identity (%)",1.39
+"166","Kawartha Lakes",44.533747,-78.900648,"Aboriginal Identity (%)",2.72
+"167","Kenora",49.767042,-94.489392,"Aboriginal Identity (%)",49.21
+"168","Lambton",43.052709,-82.040714,"Aboriginal Identity (%)",5.53
+"169","Lanark",45.008378,-76.358924,"Aboriginal Identity (%)",3.88
+"170","Leeds and Grenville",44.520364,-76.182934,"Aboriginal Identity (%)",3.46
+"171","Lennox and Addington",44.317606,-76.885249,"Aboriginal Identity (%)",4.95
+"172","Manitoulin",45.702647,-82.037176,"Aboriginal Identity (%)",40.6
+"173","Middlesex",42.931042,-81.427898,"Aboriginal Identity (%)",2.48
+"174","Muskoka",45.184112,-79.408465,"Aboriginal Identity (%)",3.69
+"175","Niagara",43.123609,-79.19893,"Aboriginal Identity (%)",2.79
+"176","Nipissing",46.097228,-79.515361,"Aboriginal Identity (%)",14.19
+"177","Northumberland",43.959337,-78.167736,"Aboriginal Identity (%)",2.73
+"178","Ottawa",45.42153,-75.697193,"Aboriginal Identity (%)",2.5
+"179","Oxford",43.131497,-80.747165,"Aboriginal Identity (%)",1.88
+"180","Parry Sound",45.347392,-80.034783,"Aboriginal Identity (%)",7.37
+"181","Peel",43.67664,-79.784842,"Aboriginal Identity (%)",0.66
+"182","Perth",44.89881,-76.248559,"Aboriginal Identity (%)",1.36
+"183","Peterborough",44.309058,-78.319747,"Aboriginal Identity (%)",4.56
+"184","Prescott and Russell",45.619268,-74.692812,"Aboriginal Identity (%)",3.21
+"185","Prince Edward",44.007313,-77.142369,"Aboriginal Identity (%)",3.03
+"186","Rainy River",48.609949,-93.395528,"Aboriginal Identity (%)",27.33
+"187","Renfrew",45.47492,-76.687719,"Aboriginal Identity (%)",8.52
+"188","Simcoe",42.837263,-80.304042,"Aboriginal Identity (%)",4.66
+"189","Stormont, Dundas and Glengarry",45.021276,-74.730345,"Aboriginal Identity (%)",4.37
+"190","Sudbury",46.522099,-80.953035,"Aboriginal Identity (%)",17.53
+"191","Thunder Bay",48.380895,-89.247682,"Aboriginal Identity (%)",15.2
+"192","Timiskaming",47.830803,-80.31949,"Aboriginal Identity (%)",8.08
+"193","Toronto",43.653226,-79.383184,"Aboriginal Identity (%)",0.86
+"194","Waterloo",43.464258,-80.52041,"Aboriginal Identity (%)",1.7
+"195","Wellington",43.951752,-77.349643,"Aboriginal Identity (%)",1.54
+"196","York",44.059187,-79.461256,"Aboriginal Identity (%)",0.54
+"197","Algoma",47.645916,-84.795152,"Immigrants to Canada (%)",5.71
+"198","Brant",43.152667,-80.171591,"Immigrants to Canada (%)",9.83
+"199","Bruce",44.131298,-81.150693,"Immigrants to Canada (%)",3.29
+"200","Chatham-Kent",42.404803,-82.191038,"Immigrants to Canada (%)",8.68
+"201","Cochrane",49.065026,-81.02993,"Immigrants to Canada (%)",4.95
+"202","Dufferin",44.052752,-80.187506,"Immigrants to Canada (%)",15.15
+"203","Durham",43.936838,-78.928824,"Immigrants to Canada (%)",34.24
+"204","Elgin",42.664587,-80.987107,"Immigrants to Canada (%)",18.71
+"205","Essex",42.172698,-82.818899,"Immigrants to Canada (%)",6.9
+"206","Frontenac",44.579703,-76.565358,"Immigrants to Canada (%)",9.09
+"207","Greater Sudbury",46.522099,-80.953035,"Immigrants to Canada (%)",5.86
+"208","Grey",44.465996,-80.632692,"Immigrants to Canada (%)",7.84
+"209","Haldimand-Norfolk",42.927685,-79.876197,"Immigrants to Canada (%)",8.2
+"210","Haliburton",45.046713,-78.508494,"Immigrants to Canada (%)",7.21
+"211","Halton",43.532537,-79.874484,"Immigrants to Canada (%)",35.91
+"212","Hamilton",43.255721,-79.871102,"Immigrants to Canada (%)",24.69
+"213","Hastings",44.309585,-77.95676,"Immigrants to Canada (%)",4.08
+"214","Huron",43.641657,-81.691156,"Immigrants to Canada (%)",8.4
+"215","Kawartha Lakes",44.533747,-78.900648,"Immigrants to Canada (%)",7.88
+"216","Kenora",49.767042,-94.489392,"Immigrants to Canada (%)",6.3
+"217","Lambton",43.052709,-82.040714,"Immigrants to Canada (%)",5.79
+"218","Lanark",45.008378,-76.358924,"Immigrants to Canada (%)",4.88
+"219","Leeds and Grenville",44.520364,-76.182934,"Immigrants to Canada (%)",5.29
+"220","Lennox and Addington",44.317606,-76.885249,"Immigrants to Canada (%)",7.67
+"221","Manitoulin",45.702647,-82.037176,"Immigrants to Canada (%)",6.74
+"222","Middlesex",42.931042,-81.427898,"Immigrants to Canada (%)",7.29
+"223","Muskoka",45.184112,-79.408465,"Immigrants to Canada (%)",7.57
+"224","Niagara",43.123609,-79.19893,"Immigrants to Canada (%)",15.97
+"225","Nipissing",46.097228,-79.515361,"Immigrants to Canada (%)",7.37
+"226","Northumberland",43.959337,-78.167736,"Immigrants to Canada (%)",11.65
+"227","Ottawa",45.42153,-75.697193,"Immigrants to Canada (%)",23.61
+"228","Oxford",43.131497,-80.747165,"Immigrants to Canada (%)",11.1
+"229","Parry Sound",45.347392,-80.034783,"Immigrants to Canada (%)",10.13
+"230","Peel",43.67664,-79.784842,"Immigrants to Canada (%)",53.35
+"231","Perth",44.89881,-76.248559,"Immigrants to Canada (%)",11.33
+"232","Peterborough",44.309058,-78.319747,"Immigrants to Canada (%)",6.66
+"233","Prescott and Russell",45.619268,-74.692812,"Immigrants to Canada (%)",7.1
+"234","Prince Edward",44.007313,-77.142369,"Immigrants to Canada (%)",10.29
+"235","Rainy River",48.609949,-93.395528,"Immigrants to Canada (%)",3.9
+"236","Renfrew",45.47492,-76.687719,"Immigrants to Canada (%)",5.11
+"237","Simcoe",42.837263,-80.304042,"Immigrants to Canada (%)",11.9
+"238","Stormont, Dundas and Glengarry",45.021276,-74.730345,"Immigrants to Canada (%)",7.44
+"239","Sudbury",46.522099,-80.953035,"Immigrants to Canada (%)",4.98
+"240","Thunder Bay",48.380895,-89.247682,"Immigrants to Canada (%)",4.39
+"241","Timiskaming",47.830803,-80.31949,"Immigrants to Canada (%)",5.43
+"242","Toronto",43.653226,-79.383184,"Immigrants to Canada (%)",47.03
+"243","Waterloo",43.464258,-80.52041,"Immigrants to Canada (%)",12
+"244","Wellington",43.951752,-77.349643,"Immigrants to Canada (%)",16.39
+"245","York",44.059187,-79.461256,"Immigrants to Canada (%)",46.35
+"246","Algoma",47.645916,-84.795152,"Unemployment rate (%)",10.5
+"247","Brant",43.152667,-80.171591,"Unemployment rate (%)",6.2
+"248","Bruce",44.131298,-81.150693,"Unemployment rate (%)",6.2
+"249","Chatham-Kent",42.404803,-82.191038,"Unemployment rate (%)",7.5
+"250","Cochrane",49.065026,-81.02993,"Unemployment rate (%)",9
+"251","Dufferin",44.052752,-80.187506,"Unemployment rate (%)",5.9
+"252","Durham",43.936838,-78.928824,"Unemployment rate (%)",8
+"253","Elgin",42.664587,-80.987107,"Unemployment rate (%)",6.3
+"254","Essex",42.172698,-82.818899,"Unemployment rate (%)",7.3
+"255","Frontenac",44.579703,-76.565358,"Unemployment rate (%)",7.5
+"256","Greater Sudbury",46.522099,-80.953035,"Unemployment rate (%)",8.3
+"257","Grey",44.465996,-80.632692,"Unemployment rate (%)",5.9
+"258","Haldimand-Norfolk",42.927685,-79.876197,"Unemployment rate (%)",6.9
+"259","Haliburton",45.046713,-78.508494,"Unemployment rate (%)",9.6
+"260","Halton",43.532537,-79.874484,"Unemployment rate (%)",9.6
+"261","Hamilton",43.255721,-79.871102,"Unemployment rate (%)",7
+"262","Hastings",44.309585,-77.95676,"Unemployment rate (%)",7.1
+"263","Huron",43.641657,-81.691156,"Unemployment rate (%)",5.3
+"264","Kawartha Lakes",44.533747,-78.900648,"Unemployment rate (%)",7.7
+"265","Kenora",49.767042,-94.489392,"Unemployment rate (%)",11.6
+"266","Lambton",43.052709,-82.040714,"Unemployment rate (%)",8.1
+"267","Lanark",45.008378,-76.358924,"Unemployment rate (%)",6.3
+"268","Leeds and Grenville",44.520364,-76.182934,"Unemployment rate (%)",7.7
+"269","Lennox and Addington",44.317606,-76.885249,"Unemployment rate (%)",6.4
+"270","Manitoulin",45.702647,-82.037176,"Unemployment rate (%)",13.3
+"271","Middlesex",42.931042,-81.427898,"Unemployment rate (%)",7.4
+"272","Muskoka",45.184112,-79.408465,"Unemployment rate (%)",7.1
+"273","Niagara",43.123609,-79.19893,"Unemployment rate (%)",7.4
+"274","Nipissing",46.097228,-79.515361,"Unemployment rate (%)",9.9
+"275","Northumberland",43.959337,-78.167736,"Unemployment rate (%)",7.3
+"276","Ottawa",45.42153,-75.697193,"Unemployment rate (%)",7.2
+"277","Oxford",43.131497,-80.747165,"Unemployment rate (%)",4.8
+"278","Parry Sound",45.347392,-80.034783,"Unemployment rate (%)",9.3
+"279","Peel",43.67664,-79.784842,"Unemployment rate (%)",8.2
+"280","Perth",44.89881,-76.248559,"Unemployment rate (%)",4
+"281","Peterborough",44.309058,-78.319747,"Unemployment rate (%)",8
+"282","Prescott and Russell",45.619268,-74.692812,"Unemployment rate (%)",5.3
+"283","Prince Edward",44.007313,-77.142369,"Unemployment rate (%)",5.7
+"284","Rainy River",48.609949,-93.395528,"Unemployment rate (%)",9.1
+"285","Renfrew",45.47492,-76.687719,"Unemployment rate (%)",7.2
+"286","Simcoe",42.837263,-80.304042,"Unemployment rate (%)",6.9
+"287","Stormont, Dundas and Glengarry",45.021276,-74.730345,"Unemployment rate (%)",7.8
+"288","Sudbury",46.522099,-80.953035,"Unemployment rate (%)",9.9
+"289","Thunder Bay",48.380895,-89.247682,"Unemployment rate (%)",8.2
+"290","Timiskaming",47.830803,-80.31949,"Unemployment rate (%)",8.6
+"291","Toronto",43.653226,-79.383184,"Unemployment rate (%)",8.2
+"292","Waterloo",43.464258,-80.52041,"Unemployment rate (%)",6.3
+"293","Wellington",43.951752,-77.349643,"Unemployment rate (%)",5.3
+"294","York",44.059187,-79.461256,"Unemployment rate (%)",6.4
